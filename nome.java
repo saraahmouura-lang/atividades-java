@@ -7,7 +7,7 @@ public class nome {
         System.out.print("digite seu nome: ");
         String nome= scanner.nextLine();
 
-        System.out.println("o seu nome é: "+ nome);
+        System.out.println("Bom dia "+ nome);
         scanner.close();
     }
 }
